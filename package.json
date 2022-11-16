@@ -1,0 +1,24 @@
+{
+  "name": "insure-landing-page-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Insure landing page coding challenge](./design/desktop-preview.jpg)",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "targets": {
+    "default": {
+      "distDir": "./docs"
+    }
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.0",
+    "parcel": "^2.8.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
