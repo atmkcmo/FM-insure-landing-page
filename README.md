@@ -4,6 +4,7 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 
 ## Overview
 
+This was a good test to work on css layouts and matching a design pixel for pixel.
 
 Users should be able to:
 
