@@ -1,4 +1,4 @@
-# Frontend Mentor - Insure landing page solution
+# Insure landing page solution
 
 This is a solution to the [Insure landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8).
 
